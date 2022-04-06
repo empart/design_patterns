@@ -1,4 +1,4 @@
-package com.zzh.FactoryMethod;
+package com.zzh.factoryMethod;
 
 import com.zzh.simpleFactory.Car;
 import com.zzh.simpleFactory.Vehicle;
@@ -7,9 +7,6 @@ import com.zzh.simpleFactory.Vehicle;
  * @Author: zhao zhihong
  * @Date: 2022/1/17
  *
- * 工厂方法
- *      每个类都有各自的工厂来生产对象
- * 缺点：还是要每回new不同的工厂来生产对象
  */
 public class CarFactory {
 

@@ -1,4 +1,4 @@
-package com.zzh.FactoryMethod;
+package com.zzh.factoryMethod;
 
 import com.zzh.simpleFactory.Plane;
 import com.zzh.simpleFactory.Vehicle;
@@ -9,7 +9,7 @@ import com.zzh.simpleFactory.Vehicle;
  */
 public class PlaneFactory {
 
-    public Vehicle createPlane(){
+    public Vehicle createPlane() {
         return new Plane();
     }
 
