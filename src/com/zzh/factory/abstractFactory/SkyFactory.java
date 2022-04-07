@@ -1,7 +1,7 @@
-package com.zzh.abstractFactory;
+package com.zzh.factory.abstractFactory;
 
-import com.zzh.abstractFactory.sky.Bird;
-import com.zzh.abstractFactory.sky.Insect;
+import com.zzh.factory.abstractFactory.sky.Bird;
+import com.zzh.factory.abstractFactory.sky.Insect;
 
 /**
  * @Author: zhao zhihong

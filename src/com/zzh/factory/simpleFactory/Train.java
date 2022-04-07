@@ -1,4 +1,4 @@
-package com.zzh.simpleFactory;
+package com.zzh.factory.simpleFactory;
 
 /**
  * @Author: zhao zhihong

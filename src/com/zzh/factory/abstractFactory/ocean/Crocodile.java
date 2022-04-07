@@ -1,6 +1,6 @@
-package com.zzh.abstractFactory.ocean;
+package com.zzh.factory.abstractFactory.ocean;
 
-import com.zzh.abstractFactory.Animals;
+import com.zzh.factory.abstractFactory.Animals;
 
 /**
  * @Author: zhao zhihong

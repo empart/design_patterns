@@ -1,7 +1,7 @@
-package com.zzh.abstractFactory;
+package com.zzh.factory.abstractFactory;
 
-import com.zzh.abstractFactory.land.Grass;
-import com.zzh.abstractFactory.land.Horse;
+import com.zzh.factory.abstractFactory.land.Grass;
+import com.zzh.factory.abstractFactory.land.Horse;
 
 /**
  * @Author: zhao zhihong

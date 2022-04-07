@@ -1,7 +1,7 @@
-package com.zzh.factoryMethod;
+package com.zzh.factory.factoryMethod;
 
-import com.zzh.simpleFactory.Car;
-import com.zzh.simpleFactory.Vehicle;
+import com.zzh.factory.simpleFactory.Car;
+import com.zzh.factory.simpleFactory.Vehicle;
 
 /**
  * @Author: zhao zhihong
